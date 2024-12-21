@@ -1,4 +1,5 @@
-Modern OTP TextField with Jetpack Compose
+Modern OTP TextField with Jetpack Compose(2024)
+
 Introduction
 This project showcases a modern OTP TextField implementation in Android using Jetpack Compose. The OTP TextField is designed to provide an intuitive and user-friendly experience for entering one-time passwords. With features like validity checks, input formatting, and state management, it offers developers a flexible and scalable solution for integrating OTP input fields into their apps.
 ![ot](https://github.com/user-attachments/assets/3a6ffe44-cbd4-44f0-8192-176fb34a46e6)
